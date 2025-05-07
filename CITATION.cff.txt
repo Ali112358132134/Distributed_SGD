@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: ""
+authors:
+  - family-names: Saaeddin
+    given-names: Ali
+    orcid: 
+title: Distributed_SGD
+version: 1.0
+identifiers:
+  - type:
+    value: 
+date-released: 2025-05-07
